@@ -1,4 +1,4 @@
-package com.dam;
+package com.dam.entity;
 
 public class Fragance {
     private String name;

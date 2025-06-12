@@ -1,6 +1,6 @@
 /*import com.dam.Candle;
 import com.dam.Client;
-import com.dam.Fragance;
+import com.dam.entity.Fragance;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

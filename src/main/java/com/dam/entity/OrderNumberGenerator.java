@@ -1,4 +1,4 @@
-package com.dam;
+package com.dam.entity;
 
 /*Class in charge of generating the order code*/
 public class OrderNumberGenerator{
