@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="227af537-2fd3-496c-8617-b6e8015e2845" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/OrderNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam/Fragance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/OrderNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dam/OrderNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GestionMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GestionMenuTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2yPYo5dsIoaMs4c5KZEpxDHw40h" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,8 +38,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "OrderNumberGenerator",
-    "onboarding.tips.debug.path": "C:/Users/Usuario/Documents/Escritorio(1)/ENTORNOS DE DESAROLLO (Ricardo)/OnFire/src/main/java/org/example/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Fragance",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/Documents/Escritorio(1)/ENTORNOS DE DESAROLLO (Ricardo)/OnFire/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

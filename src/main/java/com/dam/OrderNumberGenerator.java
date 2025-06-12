@@ -1,4 +1,4 @@
-package utils;
+package com.dam;
 
 /*Class in charge of generating the order code*/
 public class OrderNumberGenerator{
