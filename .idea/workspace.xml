@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227af537-2fd3-496c-8617-b6e8015e2845" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam/Fragance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/OrderNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dam/OrderNumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GestionMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GestionMenuTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="227af537-2fd3-496c-8617-b6e8015e2845" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Fragance",
+    "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/Usuario/Documents/Escritorio(1)/ENTORNOS DE DESAROLLO (Ricardo)/OnFire/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
