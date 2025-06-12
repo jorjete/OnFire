@@ -40,7 +40,6 @@ public abstract class Usuario {
         return email + ";" + passWord + ";" + name;
     }
 
-
     public String ToString(){
         return "email: " + email + " Nombre: " + name;
     }
