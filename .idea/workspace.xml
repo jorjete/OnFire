@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="227af537-2fd3-496c-8617-b6e8015e2845" name="Changes" comment="" />
+=======
+    <list default="true" id="227af537-2fd3-496c-8617-b6e8015e2845" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam/Admin.java" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Admin",
     "onboarding.tips.debug.path": "C:/Users/Usuario/Documents/Escritorio(1)/ENTORNOS DE DESAROLLO (Ricardo)/OnFire/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
