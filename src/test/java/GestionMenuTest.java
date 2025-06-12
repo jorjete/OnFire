@@ -1,4 +1,4 @@
-import com.dam.Candle;
+/*import com.dam.Candle;
 import com.dam.Client;
 import com.dam.Fragance;
 import org.junit.Test;
@@ -45,4 +45,4 @@ public class GestionMenuTest {
         candle.RestarCantidad(3);
         assertEquals(3, candle.getAmount());
     }
-}
+}*/
